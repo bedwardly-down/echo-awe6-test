@@ -1,3 +1,6 @@
+# Video Demo
+https://youtu.be/5hHb6YEchNU
+
 # awe6 Echo Rigging and Movement Test
 
 Testing out [echo](https://github.com/AustinEast/echo) physics engine with [awe6](https://awe6.org).
