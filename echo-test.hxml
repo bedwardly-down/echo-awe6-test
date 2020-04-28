@@ -1,0 +1,11 @@
+
+-cp src
+-js bin/game.js
+-lib awe6
+-lib pixijs
+-lib echo
+--no-inline
+-resource bin/assets/__Config.xml@config
+-dce full
+-D db
+-main Main
